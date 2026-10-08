@@ -22,37 +22,42 @@ Frontend Web Developer, later Frontend Software Engineer. Delivered frontend fea
 | Area | Technologies |
 | --- | --- |
 | Languages | TypeScript, JavaScript, HTML, CSS, SCSS |
-| Frontend | React, Next.js App Router, React Router |
+| Frontend | React, React Native, Next.js App Router, React Router |
 | State & data | Redux Toolkit, RTK Query, Zustand, REST APIs, Axios |
 | UI & forms | Tailwind CSS, MUI, Radix UI, shadcn/ui, React Hook Form, Zod |
 | Specialized UI | Recharts, React DnD, Leaflet, i18next, Framer Motion |
 | Tools | Git, GitHub, Vite, Vercel, Figma, Postman, Swagger |
 
-## Selected professional projects
+## Projects
 
 Delivered during my work at Automatic Technology Solutions LLC. Links point to product websites.
 
 ### [TimePro - FaceID Attendance Platform](https://faceid.timepro.uz)
+
 Frontend for an employee attendance CRM and a four-language marketing website. Employee, device, branch, shift, absence, and subscription management, attendance analytics, and protected routes.
 
 **Stack:** React, TypeScript, Vite, Tailwind CSS, MUI, Radix UI, Recharts, React DnD, i18next.
 
 ### Bunyodkor House - Real Estate CRM & Website
+
 Sales CRM and property listings frontend with sales pipelines, contract generation and printing, analytics, a mortgage calculator, and map-based apartment search with advanced filters.
 
 **Stack:** React, TypeScript, Tailwind CSS, React DnD, Recharts, Leaflet, Axios.
 
 ### [ProfMedMax - Medical Clinic Website](https://profmedmax.uz)
+
 Clinic website with doctors, departments, services, and an appointment request flow. Five languages, Arabic RTL layouts, reusable UI components, and API integration.
 
 **Stack:** React, TypeScript, Vite, Tailwind CSS, Radix UI, i18next, Axios.
 
 ### [YKII - Work & Study Abroad Platform](https://ykii.uz/)
+
 Public agency website and admin CMS with program pages, an application wizard, and content management. Five languages, Arabic RTL support, and dark/light themes.
 
 **Stack:** Next.js App Router, TypeScript, Tailwind CSS, i18next.
 
 ### [FERUMS - Industrial Engineering Website](https://ferums.com)
+
 Bilingual corporate website and configurable admin CMS with static generation, page metadata, canonical and language alternates, structured data, and sitemaps.
 
 **Stack:** Next.js App Router, TypeScript, Tailwind CSS.
