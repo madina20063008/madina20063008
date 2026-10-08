@@ -1,6 +1,6 @@
 # Madina Batoshova
 
-### Frontend Engineer | React · Next.js · TypeScript
+### Frontend Engineer | React · Next.js · TypeScript · Javascript 
 
 I build production web applications, CRM dashboards, and multilingual websites with responsive, accessible interfaces and reusable components.
 
